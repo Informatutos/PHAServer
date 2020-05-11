@@ -1,0 +1,11 @@
+Projects:
+  ☐ PHAServer (Personal Home Android Server)
+  ☐ This Project aims to allow all Android users to have web server software like Wamp, Xampp, EasyPhp, Lamp on Andoid. A portable web server
+
+Todo:
+  ☐ Project Started
+  ☐ Find how to install Mysql Ftp Php Apache OpenSSH [Optional (Python, Ruby, Perl)] on Termux
+  ☐ Check if any of these software already installed or not by using python
+  ☐ Write Pyhton function to install and check if update version is available
+  ☐ Modify Termux environnement paths like on linux Ex :  /data/data/com.termux/files/usr/etc/ to ~/etc
+
